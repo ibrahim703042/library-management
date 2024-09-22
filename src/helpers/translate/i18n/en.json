@@ -1,0 +1,36 @@
+{
+    "no_data": "Data not found",
+    "bad_request": "Bad request",
+    "no_found": "Not found",
+    "no_access": "Access denied",
+
+    "delete_success": "Deleted successfully",
+    "delete_failed": "Deletion failed",
+    "delete_failed_used": "Deletion cannot be performed because it is used elsewhere",
+
+    "save_success": "Saved successfully",
+    "save_failed": "Save failed",
+
+    "update_success": "Updated successfully",
+    "update_failed": "Update failed",
+
+    "found_failed": "Error occurred while finding data",
+
+    "username_exist": "Username already exists",
+    "email_exist": "E-mail already exists",
+    "phone_exist": "Entered phone number already exists",
+    "user_status": "You are blocked, please contact the administration",
+    "user_banned": "You are banned",
+
+    "assign_success": "Assigned successfully",
+    "assign_exist": "Assignment already exists",
+    "assign_failure": "Assignment failed",
+
+    "validation_success": "Validated successfully",
+    "validation_failed": "Validation failed",
+
+    "message_exist": "This message already exists",
+    "message_used": "This message is already in use",
+
+    "notification_exist": "This notification setting already exists"
+}

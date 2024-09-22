@@ -1,0 +1,28 @@
+{
+    "no_data": "Data haipatikani",
+    "bad_request": "Ombi mbaya",
+    "no_found": "Hapatikani",
+    "no_access": "Upatikanaji umekataliwa",
+    "delete_success": "Imefutwa kwa mafanikio",
+    "delete_failed": "Kuondoa kumesababisha kushindwa",
+    "delete_failed_used": "Haiwezi kufutwa kwa sababu inatumika mahali pengine",
+    "save_success": "Imehifadhiwa kwa mafanikio",
+    "save_failed": "Kuhifadhi kumesababisha kushindwa",
+    "update_success": "Imeboreshwa kwa mafanikio",
+    "update_failed": "Kuboreshaji kumesababisha kushindwa",
+    "found_failed": "Kosa lilitokea wakati wa kutafuta data",
+    "username_exist": "Jina la mtumiaji tayari linawepo",
+    "email_exist": "Barua pepe tayari ipo",
+    "phone_exist": "Nambari ya simu iliyoingizwa tayari ipo",
+    "user_status": "Umepigwa marufuku, tafadhali wasiliana na usimamizi",
+    "user_banned": "Umepigwa marufuku",
+    "assign_success": "Tayari umepewa kwa mafanikio",
+    "assign_exist": "Uteuzi tayari upo",
+    "assign_failure": "Uteuzi umeshindwa",
+    "validation_success": "Uthibitishaji umefaulu",
+    "validation_failed": "Uthibitishaji umeshindwa",
+    "message_exist": "Ujumbe huu tayari upo",
+    "message_used": "Ujumbe huu tayari unatumika",
+    "notification_exist": "Mipangilio hii ya arifa tayari ipo"
+  }
+  
